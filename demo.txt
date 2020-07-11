@@ -1,0 +1,4 @@
+hello git
+
+提交 git add xxx 将文件提交到暂存区
+git commit -m "提交文件的描述" 将暂存区的文件提交到仓库中
